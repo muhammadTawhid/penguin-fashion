@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .nav-img{
     width: 250px;
     margin-right: 400px;
@@ -21,6 +25,9 @@
 .text-highlight{
     color: #363958;
 }
+.jecket-section{
+    margin: 0 auto !important;
+}
 .collection-jacket img{
     width: 250px;
     height: 250px;
@@ -34,6 +41,9 @@
 }
 .item-footer{
     border: 0 !important;
+}
+.last-icon{
+    width: 100px;
 }
 .last-part{
     padding: 1em;
